@@ -4,6 +4,7 @@ namespace ApiCrud.Models
 {
     public class Product
     {
+        //products
         public int Id { get; set; }
         public string Title { get; set; }
         public string Description { get; set; }
